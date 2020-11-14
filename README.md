@@ -6,6 +6,8 @@ Hydraulic fracturing, which is an oil and gas well development process that invo
 ## Data Source
 The data for this project can be accessed [here](https://drive.google.com/drive/folders/1J4CSPogR2TthIWz_tMZXv1wSGnH1kv91?usp=sharing). 
 
+The visualiztions for this project can be viewed [here](https://public.tableau.com/profile/brooke.nichols#!/).
+
 [Frac Focus](https://fracfocus.org/) is the national hydraulic fracturing chemical disclosure registry for the United States. It has been collecting data on frac wells since 2011.
 
 [IRIS](https://www.iris.edu/hq/) the Incorporated Research Institutions for Seismology, is a consortium of over 120 US universities dedicated to the operation of science facilities for the acquisition, management, and distribution of seismological data.
